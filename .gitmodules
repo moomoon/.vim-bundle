@@ -1,0 +1,3 @@
+[submodule "snipmate-nodejs"]
+	path = snipmate-nodejs
+	url = https://github.com/bingeboy/snipmate-nodejs.git
